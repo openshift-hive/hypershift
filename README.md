@@ -1,3 +1,5 @@
+# Moved to https://github.com/openshift/hypershift
+
 ## HyperShift
 
 Guest clustering for [OpenShift](https://openshift.io).
